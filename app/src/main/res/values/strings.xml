@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android Proc</string>
+
+    <string name="title_cat_detail">Cat Proc File</string>
+    <string name="title_app_proc">App Proc</string>
+
+    <string name="menu_title_cat">Input</string>
+    <string name="menu_title_performance">Performance</string>
+
+    <string name="dialog_title_input_path">Input Path</string>
+
+
+    <string name="widget_loading_now">Loading Now</string>
+    <string name="widget_loading_fail">Loading fail</string>
+
+    <string name="button_retry">Retry</string>
+
+
+    <string name="label_cpu_usage">CPU usage</string>
+    <string name="label_memory_info">Memory</string>
+    <string name="label_network_info">Network Info</string>
+</resources>

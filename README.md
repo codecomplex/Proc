@@ -1,5 +1,5 @@
 a tools for reading android `/Proc` filesystem info
 
-test
+testfsfsdf
 
 see http://suwish.com/android-proc.html
